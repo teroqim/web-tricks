@@ -1,6 +1,7 @@
 Add background color to text
 ----------------------------
 ```css
+display: inline;
 box-shadow: 8px 0 0 #000, -8px 0 0 #000;
 background-color: #000;
 ```
